@@ -1,15 +1,15 @@
 # ixisiv
 1. Set environment, import all necessary libraries 
 2. Data Ingestion¶
-2.1 Import data into Python Pandas DataFrame
+2.1. Import data into Python Pandas DataFrame
 3. Explorative Data Analysis¶
-3.1 - check missing and duplicated values
-3.1.1 No missing and duplicated values
-3.2 Deal with numeric and categorical features separately
-3.2.1 Take out numeric features
-3.2.2 Take out categorical features
-3.3 Check data distributions
-3.3.1 Check the distribution of the response variable by its value counts in barplot
+3.1. - check missing and duplicated values
+3.1.1. No missing and duplicated values
+3.2. Deal with numeric and categorical features separately
+3.2.1. Take out numeric features
+3.2.2. Take out categorical features
+3.3. Check data distributions
+3.3.1. Check the distribution of the response variable by its value counts in barplot
 The "yes" to "no" ratio is roughly 1:8, which will be handled in the later classification processing
 3.3.2 Check the distributions of numeric features by histograms¶
 3.3.3 Check the distribuions of Categorical features by value counts in barplots¶
